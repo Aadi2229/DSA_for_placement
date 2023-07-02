@@ -13,7 +13,7 @@ int32_t main()
         cin >> array[i];
     }
     for(int i = n-1; i >=0; i--){
-        cout<<array[i]<<" ";
+        cout<<array[i]<<"   ";
     }
 
     
